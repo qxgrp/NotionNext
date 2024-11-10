@@ -10,7 +10,7 @@ const CONFIG = {
   COMMERCE_TEXT_FOOTER_MENU_1: 'Product Center', // COMMERCE主题页脚左侧菜单标题1
   COMMERCE_TEXT_FOOTER_MENU_2: 'About US', // COMMERCE主题页脚左侧菜单标题2
 
-  COMMERCE_FOOTER_RIGHT_IMG_URL: null, // 显示页脚右侧的图片，通常放二维码
+  COMMERCE_FOOTER_RIGHT_IMG_URL: 'https://gcore.jsdelivr.net/gh/qxgrp/image@refs/heads/main/logo.png', // 显示页脚右侧的图片，通常放二维码
   COMMERCE_FOOTER_RIGHT_TEXT: null, // 页脚右侧图片下的文字描述
 
   COMMERCE_HOME_POSTS_COUNT: 9, // 首页展示商品数
