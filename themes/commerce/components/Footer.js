@@ -195,7 +195,7 @@ const Footer = props => {
             <div className='text-xs text-light-500 dark:text-gray-700'>
               Powered by{' '}
               <a
-                href='https://notion-next-beryl-mu-91.vercel.app/'
+                href='/'
                 className='dark:text-gray-300'>
                 QIXI {siteConfig('VERSION')}
               </a>
