@@ -1,6 +1,6 @@
 const CONFIG = {
   // 封面大图
-  COMMERCE_HOME_BANNER_ENABLE: true,
+  COMMERCE_HOME_BANNER_ENABLE: flase,
 
   COMMERCE_TEXT_CENTER_TITLE: 'Product Center', // 中间产品区块标题
   COMMERCE_TEXT_CENTER_DESCRIPTION:
@@ -17,7 +17,7 @@ const CONFIG = {
   COMMERCE_CONTACT_WHATSAPP_SHOW: true, // 是否展示whatsapp联系按钮 请配置 CONTACT_WHATSAPP
   COMMERCE_CONTACT_TELEGRAM_SHOW: true, // 联系栏展示telegram按钮 请配置 CONTACT_TELEGRAM
 
-  COMMERCE_ARTICLE_COPYRIGHT: true, // 文章版权声明
+  COMMERCE_ARTICLE_COPYRIGHT: false, // 文章版权声明
   COMMERCE_ARTICLE_NOT_BY_AI: false // 显示非AI写作
 }
 export default CONFIG
